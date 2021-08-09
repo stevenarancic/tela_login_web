@@ -14,8 +14,8 @@ body {
 }
 
 .login_container {
-    min-height: 400px;
-    width: 300px;
+    min-height: 450px;
+    width: 350px;
     background-color: white;
     box-sizing: border-box;
     padding: 30px;
@@ -95,7 +95,7 @@ body {
     transition: .3s ease-in-out;
 }
 
-.login_reset {
-    font-size: 12px;
+.login_link {
+    font-size: 14px;
     color: #929292;
 }
